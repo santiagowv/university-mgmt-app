@@ -1,0 +1,11 @@
+pandas
+seaborn
+requests
+plotly
+ipython
+nbformat
+kaleido
+psutil
+azure-storage-file-datalake --pre
+azure-identity
+pydrive

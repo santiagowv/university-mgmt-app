@@ -1,0 +1,2 @@
+# University Management App
+This project consists of parsing, ingesting and visualizing randomly generated university data using software design principles. Using design principles enables us to easily switch between cloud providers, parsing methods and visualization libraries.
